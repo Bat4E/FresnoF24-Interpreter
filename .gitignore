@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!README.md
+!Csci_117_Lab4.cpp
+!input.txt
